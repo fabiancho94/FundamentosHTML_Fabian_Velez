@@ -1,12 +1,12 @@
 # Proyecto final - Hoja de vida digital
-##Proyecto final de el curso Fundamentos de HTML de la certificacion como Desarrollador Web de [Next University](https://www.nextu.com/).
+## Proyecto final de el curso Fundamentos de HTML de la certificacion como Desarrollador Web de [Next University](https://www.nextu.com/).
 
 El proyecto consiste en crear una hoja de vida digital que contiene toda nuestra informacion personal, ademas de hipervinculos a otras secciones de la misma en diferentes linksen el lenguaje html, usando los conocimientos aprendidos durante el curso.
 Los requisitos son los siguientes
 
-##Requerimientos
+## Requerimientos
 
-###1.Diagrama una página principal index.html tomando en cuenta las siguientes especificaciones:
+### 1.Diagrama una página principal index.html tomando en cuenta las siguientes especificaciones:
 
   - Logo SVG utiliza algunas de las herramientas SVG en línea para diseñar el logo con tus iniciales, utiliza los colores y formas que prefieras.
   - Título aquí te sugerimos coloques el título de tu documento, "Hoja de Vida" o "Curriculum Vitae" o "Resumen Curricular". utilizando la etiqueta h1.
@@ -16,7 +16,7 @@ Los requisitos son los siguientes
   - Perfil redacta un parráfo y describe habilidades y destrezas que te definen como un exitoso profesional en tu área de conocimiento y agrega una lista no numerada (viñetas) con los idiomas que comprendes, hablas y escribes.
   - Pie de Página en esta sección debes colocar información de contacto como: correo eléctrónico, teléfono, redes sociales o dirección.
 
-###2. Diagrama la página educacion.html tomando en cuenta las siguientes especificaciones:
+### 2. Diagrama la página educacion.html tomando en cuenta las siguientes especificaciones:
 
   - Logo SVG utiliza algunas de las herramientas SVG en línea para diseñar el logo con tus iniciales, utiliza los colores y formas que prefieras.
   - Título aquí te sugerimos coloques el título de tu documento, "Hoja de Vida" o "Curriculum Vitae" o "Resumen Curricular". utilizando la etiqueta h1.
@@ -32,7 +32,7 @@ Los requisitos son los siguientes
        - Un botón "Enviar". 
   - Pie de Página en esta sección debes colocar información de contacto como: correo eléctrónico, teléfono, redes sociales o dirección.
 
-###3. Diagrama una página principal experiencia.html tomando en cuenta las siguientes especificaciones:
+### 3. Diagrama una página principal experiencia.html tomando en cuenta las siguientes especificaciones:
 
    - Logo SVG utiliza algunas de las herramientas SVG en línea para diseñar el logo con tus iniciales, utiliza los colores y formas que prefieras.
    - Título aquí te sugerimos coloques el título de tu documento, "Hoja de Vida" o "Curriculum Vitae" o "Resumen Curricular". utilizando la etiqueta h1.
